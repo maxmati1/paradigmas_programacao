@@ -1,0 +1,74 @@
+# Evolução das Principais Linguagens de Programação
+
+## Questão 1
+
+A genealogia das linguagens não é uma escada porque uma linguagem nova não necessariamente substitui uma antiga. Muitas linguagens continuam sendo usadas porque atendem bem a determinadas necessidades.
+
+Dois fatores importantes são a compatibilidade com sistemas que já existem e a influência de ideias. Uma linguagem pode continuar sendo utilizada e, ao mesmo tempo, ter seus conceitos aproveitados por linguagens mais novas.
+
+## Questão 4
+
+Fortran precisava mostrar que um programa escrito em uma linguagem de alto nível poderia ser tão eficiente quanto um programa escrito diretamente em linguagem de máquina. Na época, existia bastante desconfiança em relação ao desempenho dos compiladores.
+
+Se o compilador conseguisse gerar um código eficiente, os programadores poderiam escrever seus programas mais rapidamente e com menos trabalho. Isso ajudou Fortran a ganhar espaço, principalmente na área de computação científica.
+
+## Questão 6
+
+ALGOL 60 foi importante por ideias como estrutura de blocos, recursão e uma sintaxe que influenciou várias linguagens posteriores.
+
+Uma linguagem pode ser muito influente sem ser a mais usada no mercado. O sucesso comercial depende também de fatores como ferramentas, suporte, compatibilidade e quantidade de programas já existentes. Por isso, influência e popularidade não são necessariamente a mesma coisa.
+
+## Questão 9
+
+APL foi criada com foco em operações matemáticas com vetores e matrizes, sendo importante para a computação científica. SNOBOL tinha como principal foco o processamento de textos e padrões.
+
+Já SIMULA 67 seguiu outro caminho e teve grande importância para a programação orientada a objetos, principalmente pelos conceitos de classes e objetos. Cada uma dessas linguagens acabou influenciando áreas diferentes.
+
+## Questão 10
+
+Ortogonalidade significa que os recursos de uma linguagem podem ser combinados de forma mais consistente, sem muitas regras especiais. ALGOL 68 buscou bastante essa característica em seu projeto.
+
+Mesmo assim, uma linguagem regular não é necessariamente simples. Ela pode ter regras bem organizadas, mas possuir muitos recursos e conceitos para aprender. Portanto, muita ortogonalidade pode ajudar na consistência, mas não garante que a linguagem seja fácil de usar.
+
+## Questão 11
+
+Uma possível cadeia de influência é:
+
+ALGOL → Pascal → C
+
+ALGOL influenciou o desenvolvimento de linguagens estruturadas, entre elas Pascal. C também faz parte dessa tradição de linguagens imperativas, embora tenha sido bastante voltada para programação de sistemas.
+
+Prolog segue uma ideia diferente. É uma linguagem declarativa e lógica, na qual o programador trabalha com fatos, regras e consultas, em vez de descrever todos os passos necessários para executar uma tarefa.
+
+## Questão 13
+
+Ada foi desenvolvida pensando principalmente em sistemas grandes e críticos, nos quais erros podem causar problemas graves. Por isso, a linguagem possui recursos que ajudam na confiabilidade.
+
+O sistema de tipos ajuda a encontrar erros, os pacotes facilitam a organização de programas grandes e os recursos de concorrência permitem trabalhar com tarefas executadas ao mesmo tempo. Essas características tornam Ada adequada para sistemas que precisam ser mais seguros e organizados.
+
+## Questão 14
+
+Em Smalltalk, os objetos são a base principal da linguagem. C++ também utiliza orientação a objetos, mas precisou manter uma relação próxima com C, permitindo continuar usando características de programação de baixo nível.
+
+Java também utiliza objetos, mas teve uma preocupação maior com portabilidade. Seus programas são executados por uma máquina virtual, permitindo que o mesmo programa possa funcionar em diferentes sistemas. Assim, cada linguagem adotou uma estratégia diferente para trabalhar com objetos.
+
+## Questão 17
+
+C# foi criada dentro do ambiente .NET e aproveitou várias ideias de linguagens que já existiam. Uma diferença em relação ao C++ é que C# procura evitar algumas características mais complexas, tornando a linguagem mais simples e segura para o desenvolvimento de aplicações.
+
+Em relação ao Java, C# possui recursos semelhantes, como a execução dentro de um ambiente gerenciado e a coleta automática de memória. Essas escolhas procuram facilitar o desenvolvimento e diminuir problemas comuns de gerenciamento de memória. Ao mesmo tempo, C# mantém recursos que permitem criar aplicações de diferentes tipos dentro do ambiente .NET.
+
+
+Apesar de todas serem consideradas linguagens de scripting, elas não são iguais. Cada uma surgiu para resolver problemas diferentes e possui suas próprias estruturas de dados e formas de execução. Por exemplo, JavaScript ficou muito ligada à Web, enquanto Lua foi pensada para ser pequena e fácil de incorporar em outros programas.
+
+## Questão 20
+
+Para cálculo científico, Fortran seria uma boa escolha por sua história ligada à computação numérica e ao bom desempenho. Para regras declarativas, Prolog seria adequada porque trabalha com fatos, regras e consultas.
+
+Para uma aplicação Web interativa, JavaScript seria uma escolha natural por causa de sua relação histórica com a Web. Já para firmware restrito, C seria uma boa opção devido ao controle de memória e à proximidade com o hardware.
+
+Dois trade-offs importantes são abstração contra controle e especialização contra generalidade. Uma linguagem mais abstrata pode facilitar o desenvolvimento, enquanto uma linguagem mais próxima do hardware oferece maior controle. Da mesma forma, uma linguagem especializada pode ser muito boa em uma área, mas não necessariamente em outras.
+
+## Referência
+
+SEBESTA, Robert W. Conceitos de Linguagens de Programação. Capítulo 2 — Evolução das Principais Linguagens de Programação.
